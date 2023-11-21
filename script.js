@@ -1,7 +1,8 @@
 //your JS code here. If required.
 let input= document.querySelector(".input");
-let search= document.getElementByClassName("search");
+let search= document.getElementsByClassName("search");
 function btnClicked(){
-	search.active();
+	search[0].active();
+	input.focus();
 	
 }
