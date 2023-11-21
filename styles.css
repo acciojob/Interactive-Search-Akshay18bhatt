@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.search{
+	width:100%;
+	background-color:#765BEE;
+	height:250px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	border:none;
+}
+input, button{
+	border:none;
+	padding:10px;
+	background-color:white;
+}
+
