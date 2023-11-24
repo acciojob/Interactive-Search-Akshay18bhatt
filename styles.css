@@ -13,4 +13,9 @@ input, button{
 	padding:10px;
 	background-color:white;
 }
+button{
+	background-color: blue;
+	color:#fff;
+	font-size:16px !important;
+}
 
